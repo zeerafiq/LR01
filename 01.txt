@@ -1,2 +1,3 @@
 welcome to remote repo
-line from github
+line from github fetch and merge
+line from github pull
